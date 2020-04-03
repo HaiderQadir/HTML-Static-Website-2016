@@ -1,0 +1,55 @@
+<html>
+<head><title>quettaplayers</title></head>
+<body  style=color:white background="qPNJi8.jpg" align="center"> 
+
+<table>
+<tr>
+<td style="padding-left:100px"><img src="111.png" width="150" height="150" ></td>
+<td><font size="300" color="white" face="arial"  style="padding-left:20px"> PAKISTAN SUPER LEAGUE </font>
+</td>
+</tr>
+</table>
+
+
+
+<img src="1455114309633-player.png">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="1455114309633-player.png">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+<img src="plpl (1).jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+</html>
